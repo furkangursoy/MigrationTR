@@ -16,6 +16,6 @@ The reproducibility files for our analysis investigating the internal migration 
 ___
 _If you find this useful for your research, please consider citing:_
 
-F. Gürsoy, B. Badur. (2022). Investigating internal migration with network analysis and latent space representations: An application to Turkey. arXiv preprint arXiv:2201.03543.
+F. Gürsoy and B. Badur. (2022). Investigating internal migration with network analysis and latent space representations: An application to Turkey. arXiv preprint arXiv:2201.03543.
 https://doi.org/10.48550/arXiv.2201.03543 .
 ___
